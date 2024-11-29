@@ -1,4 +1,4 @@
-# CSS Positioning: Demo Start
+# CSS Positioning: Demo
 
 This is the starter version of the CSS Positioning demo.
 
